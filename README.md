@@ -1,4 +1,4 @@
-> Software Engineer, Kubernetes, Containers, TypeScript, C, .NET
+> Kubernetes, Containers, TypeScript, C/C++, .NET
 
 - Senior Software Engineer @ [Snyk](https://snyk.io/)
 
