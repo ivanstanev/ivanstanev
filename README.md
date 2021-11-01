@@ -19,5 +19,4 @@ I aim to continuously grow my expertise in cyber security, software architecture
 
 ### Other ###
 
-Avid coffee lover ☕ <br />
-Passionate about gym and calisthenics 🏋️
+☕ 🏋️ 🏊 📚 ✈️ 🥁
