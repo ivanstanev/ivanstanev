@@ -1,6 +1,6 @@
 > Kubernetes, Containers, TypeScript, C/C++, .NET, Go
 
-- Senior Software Engineer @ [Snyk](https://snyk.io/)
+- Staff Software Engineer @ [Snyk](https://snyk.io/)
 
 ## About me ##
 
