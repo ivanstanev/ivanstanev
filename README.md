@@ -19,4 +19,4 @@ I aim to continuously grow my expertise in cyber security, software architecture
 
 ### Other ###
 
-☕ 🏋️ 🏊 📚 ✈️ 🥁
+☕ 🏋️ 📚 ✈️ 🥁
