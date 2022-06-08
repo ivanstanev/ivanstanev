@@ -1,4 +1,4 @@
-> Kubernetes, Containers, Node.js, TypeScript, Go
+> Microservices, Kubernetes, Containers, Node.js, TypeScript, Go
 
 - Staff Software Engineer @ [Snyk](https://snyk.io/)
 
