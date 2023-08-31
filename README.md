@@ -27,7 +27,7 @@ I aim to continuously grow my expertise in cyber security, software architecture
 - JSON:API
 - Kafka, Schema Registry, Debezium
 - Postgres
-- Go, TypeScript, Node.js
+- Go, TypeScript, Node.js, C
 - Containers, OCI
 - Kubernetes
 
