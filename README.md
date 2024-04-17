@@ -2,7 +2,7 @@
 
 Current position:
 
-- Software Engineer @ Stealth Startup
+- Software Engineer @ [Nagomi](https://nagomi.security/)
 
 Previous positions:
 - Staff Software Engineer @ [Snyk](https://snyk.io/), Snyk Container
