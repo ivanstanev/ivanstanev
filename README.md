@@ -24,12 +24,11 @@ I aim to continuously grow my expertise in cyber security, software architecture
 
 ### Technologies I've worked with
 
-- JSON:API
-- Kafka, Schema Registry, Debezium
-- Postgres
-- Go, TypeScript, C, .NET
-- Vue.js, React
+- Go, TypeScript, C, .NET, Android
 - Kubernetes, Containers/OCI, Helm
+- Postgres, Kafka
+- JSON:API, OpenAPI
+- Vue.js, React
 
 ### Other
 
